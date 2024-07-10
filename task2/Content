@@ -1,0 +1,19 @@
+A common person can receive a huge amount of emails in a day. The email user can receive
+emails from different sources related to the different day to day activities like social networking,
+files and sharing, online shopping, e billing, e commerce and applications etc. One should be
+able to differentiate between important and useful emails over spam or junk emails. Once a user
+gets exposed to the spam and malicious sources he will receive a large amount of emails from
+various unknown sources. Therefore it becomes a hectic and time consuming task for an email
+user to make a selection and difference of all the received emails, which may contain an
+important piece of data or information. The condition becomes very risky when an email client
+is trapped into a malicious act and then the security and privacy of a system could be breached.
+The email user could be trapped into a phishing act initiated by the cyber criminals. It is very
+hard to recover from such situations and most of the times an email user gets attracted to the
+spam emails and respond to them. In most of the cases the blocking and reporting of these spam
+email sources become useless, as the senders change their location continuously. One of the
+alternatives can be tracking those particular IP addresses from where an email user receives
+these spam emails, but the task becomes harder when the number of IP addresses are many but
+not fewer. And the major part is when the senders change their locations and targets. One of thesolutions to the email spamming is to access an email id with the number of senders, classify
+and categorize the received emails into spam and non-spam emails. The classification of
+received emails can be done by using appropriate and approximate machine learning approaches
+and some autonomous algorithms.
